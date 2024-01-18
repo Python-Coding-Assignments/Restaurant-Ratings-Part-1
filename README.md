@@ -30,4 +30,4 @@ To run the program, download the contents of the project and simply run make in 
 
 ## Contact
 Name: Garrett Ellis\
-Project Link: [https://github.com/Python-Coding-Assignments/String-Manipulator/tree/main]()
+Project Link: [https://github.com/Python-Coding-Assignments/Restaurant-Ratings-Part-1/tree/main]()
