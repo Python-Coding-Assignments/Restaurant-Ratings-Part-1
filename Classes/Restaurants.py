@@ -59,7 +59,7 @@ class Restaurant:
     def setWebsite(self, website):
         """This method is a setter which sets the name of the restaurant's website."""
 
-        return self.website 
+        self.website = website
 
     def getWebsite(self):
         """This method is a getter which returns the name of the restaurant's website."""
