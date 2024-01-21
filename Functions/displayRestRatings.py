@@ -1,5 +1,5 @@
 def displayRestRatings(restaurant):
-    """This function prints each rating for a specified restaurant.  This function takes in one mutable argument which is a list, more specifically, a list or restaurants."""
+    """This function prints each rating for a specified restaurant.  This function takes in one mutable argument, which is an object of type Restaurant."""
 
     print("Ratings for " + restaurant.name)
     #for loop which iterates over each restaurant rating
