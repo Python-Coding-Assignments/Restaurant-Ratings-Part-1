@@ -31,9 +31,9 @@ In this program, the user can enter anything, even when prompted with entering a
 
 To run the program, download the contents of the project and simply run make in the terminal.
 
-Once the project is open, you will be prompted with a menu display different menu options. To continue, you will need to enter a letter that corresponds to one of the menu options; otherwise; an error message will be displayed.
+Once the project is open, you will be prompted with a menu display different menu options. To continue, you will need to enter a letter that corresponds to one of the menu options; otherwise, an error message will be displayed.
 
-For some menu options, the program ask for a restaurant index input from the user. The restaurant index that the program is requesting is the index in which the user's chosen restaurant appears in the list. Recall, in a list, the first element is at index zero, the second element is at index one, and so forth. To see which restaurants are at which restaurant index, you can input the character "A" for the menu selection, and then a list of the restaurants at their specified index is printed to the screen.
+For some menu options, the program ask for a restaurant index input from the user. The restaurant index that the program is requesting is the index in which the user's chosen restaurant appears in the already initialized list. Recall, in a list, the first element is at index zero, the second element is at index one, and so forth. To see which restaurants are at which restaurant index, you can input the character "A" for the menu selection, and then a list of the restaurants at their specified index is printed to the screen.
 
 ## Contact
 
